@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "gfgf",
+        "author": "ew",
+        "year": "123",
+        "status": "в наличии"
+    },
+    {
+        "id": 2,
+        "title": "ffff",
+        "author": "111",
+        "year": "123",
+        "status": "в наличии"
+    },
+    {
+        "id": 3,
+        "title": "123",
+        "author": "123",
+        "year": 123,
+        "status": "в наличии"
+    },
+    {
+        "id": 4,
+        "title": "321",
+        "author": "312",
+        "year": 123,
+        "status": "в наличии"
+    },
+    {
+        "id": 5,
+        "title": "fsd",
+        "author": "fsd",
+        "year": 123,
+        "status": "в наличии"
+    },
+    {
+        "id": 6,
+        "title": "fsdsdf",
+        "author": "ghjkl",
+        "year": 12,
+        "status": "в наличии"
+    }
+]
