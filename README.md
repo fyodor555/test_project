@@ -40,7 +40,7 @@ __интерфейсы__\
 add_book_interface(library) - метод по добавлению книги\
 remove_book_interface(library) - метод по удалению книги\
 change_status_interface(library) - метод по изменению статуса \
-search_book_interface(library) - по поиску\
+search_book_interface(library) - по поиску
 
 validate(text) - обращается к пользователю для ввода целого числа
 
